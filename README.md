@@ -4,4 +4,4 @@ This was some code I wrote for independent study in Spring 2025. Building upon m
 
 The original repository for treefarms that I built upon and used is here: https://github.com/ubc-systopia/treeFarms 
 
-The MAPTree part of the code is here: https://github.com/tracysun27/treefarms_posteriors
+The MAPTree part of the code is here: https://github.com/tracysun27/treefarms_posteriors_pt2
